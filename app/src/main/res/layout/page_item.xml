@@ -1,0 +1,7 @@
+<com.example.multipagertest.Pager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:scrollpanel="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    scrollpanel:HronMargin="@dimen/pager_margin"
+    >
+</com.example.multipagertest.Pager>
