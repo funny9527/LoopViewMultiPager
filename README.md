@@ -1,3 +1,8 @@
 # LoopViewMultiPager
-this is a ViewPager witch support multi pager in one screen one time and support slid looply.一屏幕显示多个页面，两边露出其它屏幕一部分，可以循环滑动的ViewPager，类似百度地图底部搜索结果的展示。
-![image](https://github.com/funny9527/LoopViewMultiPager/blob/master/a.png)
+this is a custom ViewPager witch support multi pager in one screen at one time and support slide looply.
+自定义ViewPager, 支持循环滑动，支持一页显示多个页面，类似gallery多窗口预览效果。
+
+![image](https://github.com/funny9527/LoopViewMultiPager/blob/master/1.png)
+![image](https://github.com/funny9527/LoopViewMultiPager/blob/master/2.png)
+![image](https://github.com/funny9527/LoopViewMultiPager/blob/master/3.png)
+
