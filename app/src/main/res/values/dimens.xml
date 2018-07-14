@@ -1,6 +1,0 @@
-<resources>
-
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="pager_spacing">20dp</dimen>
-    <dimen name="pager_margin">40dp</dimen>
-</resources>
